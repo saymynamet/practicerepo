@@ -1,3 +1,6 @@
+- [x] A 기능 구현
+- [ ] B 기능 구현
+
 리눅스에서 패키지를 설치하는 명령어는 `apt install`이다.
 
 ```bash
@@ -90,3 +93,6 @@ orate --graph --all
 * b2f6043 (main) Need to a new function
 ```
 
+```mermaid
+
+``
